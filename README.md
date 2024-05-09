@@ -22,4 +22,5 @@ Swift의 런타임과 컴파일 시점에 대한 중요성을 느꼈습니다.
   > |:---:| :--- | :--- |
   > |1| Static Dispatch, Dynamic Dispatch | [설명](https://github.com/jjunhaa0211/DeepDive-Junha/tree/main/Dispatch) |
   > |2| NSObject | [설명](https://github.com/jjunhaa0211/DeepDive-Junha/tree/main/NSObject) |
-  > |3| Any, AnyObject | [설명]() |
+  > |3| Any, AnyObject | [설명](https://github.com/jjunhaa0211/DeepDive-Junha/tree/main/AnyObject) |
+  > |4| Swift Class Struct | [설명]() | 
