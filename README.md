@@ -17,7 +17,6 @@ Swift의 런타임과 컴파일 시점에 대한 중요성을 느꼈습니다.
 * [DeepDive](#DeepDive)
 
 # <a id="DeepDive"></a> DeepDive
-### **챕터 I: DeepDive**
   > | 순서 | 제목 | 링크 |
   > |:---:| :--- | :--- |
   > |1| Static Dispatch, Dynamic Dispatch | [설명](https://github.com/jjunhaa0211/DeepDive-Junha/tree/main/Dispatch) |
